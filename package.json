@@ -1,6 +1,6 @@
 {
   "name": "@yantrajs/io",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Unified IO Package",
   "main": "index.js",
   "scripts": {
