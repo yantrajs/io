@@ -1,0 +1,20 @@
+{
+  "name": "@yantrajs/io",
+  "version": "1.0.1",
+  "description": "Unified IO Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0",
+    "postversion": "git push --follow-tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/yantrajs/io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.14.5"
+  },
+  "bundledDependencies": []
+}

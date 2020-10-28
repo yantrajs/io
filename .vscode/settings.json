@@ -1,0 +1,26 @@
+{
+    "terminal.integrated.shellArgs.windows": ["-ExecutionPolicy", "Bypass"],
+    "cSpell.words": [
+        "AACCN",
+        "Akash",
+        "GSTIN",
+        "IGST",
+        "Lucida",
+        "Mahape",
+        "Navi",
+        "Neuro",
+        "SGST",
+        "STIN",
+        "Signup",
+        "Uploader",
+        "Verdana",
+        "darkgray",
+        "downlevel",
+        "lightgray",
+        "mastercard",
+        "postversion",
+        "unmount",
+        "webatoms",
+        "xnode"
+    ]
+}
