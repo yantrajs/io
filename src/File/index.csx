@@ -1,7 +1,8 @@
-#r "nuget: YantraJS.Core,1.0.1-CI-20201028-141018"
+#r "nuget: YantraJS.Core,1.0.5"
 using System;
-using WebAtoms.CoreJS.Core;
-using WebAtoms.CoreJS.Core.Clr;
+using System.Linq;
+using YantraJS.Core;
+using YantraJS.Core.Clr;
 
 [DefaultExport]
 public class File {
